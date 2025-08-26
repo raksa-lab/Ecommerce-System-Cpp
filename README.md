@@ -19,9 +19,3 @@ CamboBuy is a console-based e-commerce application built in C++. It allows users
 
 You need a C++ compiler installed on your system, such as **g++** (part of GCC).
 
-### Compilation
-
-Open your terminal or command prompt in the project directory and run the following command to compile all source files:
-
-```sh
-g++ Main.cpp admin.cpp product_management.cpp user_auth.cpp -o Main
